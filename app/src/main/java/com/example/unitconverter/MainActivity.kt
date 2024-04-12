@@ -61,7 +61,7 @@ fun UnitConverter() {
         horizontalAlignment =Alignment.CenterHorizontally ){
 
 
-        Text( "UNIT CONVERTER");
+        Text( text="UNIT CONVERTER");
 
         Spacer(modifier = Modifier.padding(16.dp)) //between above text and below box
 
